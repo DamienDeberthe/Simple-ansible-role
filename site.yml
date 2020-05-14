@@ -1,0 +1,4 @@
+---
+# file: site.yml
+- import_playbook: role1.yml
+#- import_playbook: role2.yml

@@ -1,0 +1,5 @@
+---
+# roles/role1/handler/main.yml
+
+- name: restart <service>
+  service: name=<service> state=restarted

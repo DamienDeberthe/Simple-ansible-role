@@ -1,0 +1,4 @@
+---
+# file: roles/role1/tasks/task1.yml
+
+- name: Task1

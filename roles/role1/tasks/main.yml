@@ -1,0 +1,5 @@
+---
+# file: roles/role1/tasks/main.yml
+
+- name: Include task1.yml
+  include_tasks: task1.yml
